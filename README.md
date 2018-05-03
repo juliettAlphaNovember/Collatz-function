@@ -16,24 +16,24 @@ A command consists of a number k and a charter c. The charter decides the search
 Output
 Write the sequence after performing the commands. Instead the omitted numbers write charter 'm'.
 
-Examples
-Input
-4
-1 3 3 2000000001
-2
-3 s
-1 l
+Examples  
+Input  
+4  
+1 3 3 2000000001  
+2  
+3 s  
+1 l  
 
-Output
-1 5 10 m
+Output  
+1 5 10 m  
 
 
-Input
-5
-1 3 3 2345678901 4123456789
-2
-9 s
-1 l
+Input  
+5  
+1 3 3 2345678901 4123456789  
+2  
+9 s  
+1 l  
 
-Output
-1 2 16 2345678901 m
+Output  
+1 2 16 2345678901 m  
